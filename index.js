@@ -29,4 +29,4 @@ if (isNaN(answer)) {
   alert(`The result is: ${answer}`);
 }
 
-alert("Thank you for using Calc3000 Pro!");
+alert("Thank you very much for using Calc3000 Pro!");
